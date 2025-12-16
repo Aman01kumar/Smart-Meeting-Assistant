@@ -1,2 +1,4 @@
 vision-agents[getstream,gemini,deepgram]
 python-dotenv
+fastapi
+uvicorn
